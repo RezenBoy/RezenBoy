@@ -10,10 +10,10 @@ I'm a passionate developer from India, focused on building secure, stable system
 
 ## 📌 Featured Projects
 
-- 🎧 [spotify_clone](https://github.com/RezenBoy/spotify_clone): :contentReference[oaicite:3]{index=3}
-- 🐾 [pet_shop](https://github.com/RezenBoy/pet_shop): :contentReference[oaicite:4]{index=4}
-- 🏫 [College_Project](https://github.com/RezenBoy/College_Project): :contentReference[oaicite:5]{index=5}
-- 🕌 [Amritsar-tourism](https://github.com/RezenBoy/Amritsar-tourism): :contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
+- 🕌 [Amritsar-tourism](https://github.com/RezenBoy/Amritsar-tourism)
+- 🎧 [spotify_clone](https://github.com/RezenBoy/spotify_clone)
+- 🐾 [pet_shop](https://github.com/RezenBoy/pet_shop)
+- 🏫 [College_Project](https://github.com/RezenBoy/College_Project)
 
 ## 🌱 Currently Learning
 
