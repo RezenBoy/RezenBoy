@@ -2,7 +2,8 @@
 
 **Full Stack Developer | Building Secure & Reliable Systems**
 
-I'm a developer based in India with a passion for creating robust, secure applications that deliver peace of mind. I believe in writing clean code, following best practices, and continuously evolving with the technology landscape.
+A developer from India, passionate about building secure and stable software that just works.<br>
+I write clean, maintainable code that helps people focus on what truly matters — not the bugs.
 
 ---
 
