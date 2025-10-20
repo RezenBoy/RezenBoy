@@ -1,30 +1,55 @@
-# 👋 Hi there, I'm Simranjeet Singh (aka RezenBoy)
+# Simranjeet Singh
 
-I'm a passionate developer from India, focused on building secure, stable systems that empower others to sleep soundly at night. I enjoy exploring new technologies and continuously improving my skills.
+**Full Stack Developer | Building Secure & Reliable Systems**
 
-## 🛠️ Tech Stack
-
-- **Languages:** Python, Dart, JavaScript, PHP, Java
-- **Frameworks:** Flutter, Spring boot, Hibernate
-- **Databases:** MySQL, Mysqli
-
-## 📌 Featured Projects
-
-- 🕌 [Amritsar-tourism](https://github.com/RezenBoy/Amritsar-tourism)
-- 🎧 [spotify_clone](https://github.com/RezenBoy/spotify_clone)
-- 🐾 [pet_shop](https://github.com/RezenBoy/pet_shop)
-- 🏫 [College_Project](https://github.com/RezenBoy/College_Project)
-
-## 🌱 Currently Learning
-
-- Full Stack Java
-
-## 🤝 Let's Connect
-
-- GitHub: [@RezenBoy](https://github.com/RezenBoy)
-- Email: :smrnjtsngh82@gmail.com
+I'm a developer based in India with a passion for creating robust, secure applications that deliver peace of mind. I believe in writing clean code, following best practices, and continuously evolving with the technology landscape.
 
 ---
 
-Feel free to explore my repositories and reach out if you're interested in collaborating on exciting projects!
+## 💻 Technical Expertise
 
+**Languages**  
+Python • Dart • JavaScript • PHP • Java
+
+**Frameworks & Tools**  
+Flutter • Spring Boot • Hibernate
+
+**Databases**  
+MySQL • MySQLi
+
+---
+
+## 🚀 Featured Work
+
+### [Amritsar Tourism](https://github.com/RezenBoy/Amritsar-tourism)
+A tourism platform showcasing the cultural heritage of Amritsar
+
+### [Spotify Clone](https://github.com/RezenBoy/spotify_clone)
+Music streaming application with modern UI/UX
+
+### [Pet Shop](https://github.com/RezenBoy/pet_shop)
+E-commerce platform for pet supplies and services
+
+### [College Project](https://github.com/RezenBoy/College_Project)
+Academic project demonstrating full-stack development capabilities
+
+---
+
+## 🌱 Current Focus
+
+Deepening my expertise in **Full Stack Java Development** and exploring modern architectural patterns for scalable applications.
+
+---
+
+## 📫 Get In Touch
+
+I'm always interested in collaborating on meaningful projects or discussing new opportunities.
+
+**GitHub:** [@RezenBoy](https://github.com/RezenBoy)  
+**Email:** smrnjtsngh82@gmail.com
+
+---
+
+<div align="center">
+  <i>Open to collaboration • Always learning • Building with purpose</i>
+</div>
