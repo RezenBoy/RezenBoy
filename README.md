@@ -54,3 +54,4 @@ I'm always interested in collaborating on meaningful projects or discussing new 
 <div align="center">
   <i>Open to collaboration • Always learning • Building with purpose</i>
 </div>
+
