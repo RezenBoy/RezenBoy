@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RezenBoy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23a78bfa.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/RezenBoy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23a78bfa.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-blue-six-82.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-smrnjtsngh82%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smrnjtsngh82@gmail.com)
 
 </div>
