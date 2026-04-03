@@ -63,64 +63,6 @@ public class Simranjeet {
 
 </div>
 
----
-
-## Experience
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Creed Infotech Pvt. Ltd.**
-Coding Tutor — Academic Dept.
-Mohali | Jun 2025 – Present
-
-- Teaching programming to U.S. students (school–college level)
-- Live coding sessions in Python, Java, C++, Web Dev
-- Simplifying complex CS concepts for diverse learners
-
-</td>
-<td width="50%" valign="top">
-
-**Pisoft Informatics Pvt. Ltd.**
-Java Full Stack Trainee
-Mohali | Jan 2025 – Jul 2025
-
-- Built full-stack apps with Spring Boot + MySQL
-- Role-based access control & RESTful APIs
-- *Hotel Management System* — layered CRUD with auth
-- *Library Management System* — admin & user API levels
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Boffin Coders Pvt. Ltd.**
-Flutter Developer Intern
-Mohali | Jun 2023 – Sep 2023
-
-- Cross-platform mobile apps with Flutter + Firebase
-- Agile team collaboration for client feature delivery
-- *Airco* — E-learning platform with real-time chat
-- *Pixz* — Social app: posts, likes, comments (Figma UI)
-
-</td>
-<td width="50%" valign="top">
-
-**Education**
-
-MCA — Master of Computer Applications
-Punjabi University | 2025
-
-BCA — Bachelor of Computer Applications
-Punjabi University | 2023
-
-</td>
-</tr>
-</table>
-
----
 
 ## Projects
 
